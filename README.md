@@ -17,8 +17,9 @@ Dashboard ini dirancang untuk menganalisis dan memvisualisasikan data penggunaan
 Untuk menjalankan dashboard ini, Anda perlu menginstal dependensi yang diperlukan. Gunakan perintah berikut:
 
 - conda create --name main-ds python=3.9
+- conda init
 - conda activate main-ds
 - pip install pandas matplotlib seaborn plotly streamlit
 
 ## Run streamlit app
-- streamlit run dashboard/dashboard.py
+- streamlit run dashboard/app.py
