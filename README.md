@@ -22,4 +22,4 @@ Untuk menjalankan dashboard ini, Anda perlu menginstal dependensi yang diperluka
 - pip install pandas matplotlib seaborn plotly streamlit
 
 ## Run streamlit app
-- streamlit run dashboard/dashboard.py
+- streamlit run dashboard/app.py
