@@ -19,7 +19,7 @@ Untuk menjalankan dashboard ini, Anda perlu menginstal dependensi yang diperluka
 - conda create --name main-ds python=3.9
 - conda init
 - conda activate main-ds
-- pip install pandas matplotlib seaborn plotly streamlit
+- pip install pandas matplotlib babel seaborn plotly streamlit
 
 ## Run streamlit app
 - streamlit run dashboard/app.py
